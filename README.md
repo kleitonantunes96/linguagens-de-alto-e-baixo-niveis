@@ -1,6 +1,6 @@
-# Níveis de Linguagens em Ordem Decrescente: Foi criado um código que imprime a frase "Hello world" nas linguagens de programação.
+# Níveis de Linguagens em Ordem Decrescente: Foi criado um código que imprime a frase "Hello world" nas linguagens de programação. Do baixo Nivel ao Alto
 
-## 1 - Assembly (Hello World)
+## 1 - Assembly 
 ✅ Código Assembly 64 bits para imprimir "hello world"
 section .data
     msg db 'hello world', 0xA  ; A mensagem a ser exibida com quebra de linha
